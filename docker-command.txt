@@ -1,0 +1,3 @@
+docker run -it -v ~/Documents/Codes/java-demo:/java-demo openjdk:8
+
+docker exec -it boring_gould /bin/bash
